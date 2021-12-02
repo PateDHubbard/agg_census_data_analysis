@@ -2,3 +2,4 @@
 init.ipynb
 venv/
 .venv/
+.ipynb_checkpoints/
