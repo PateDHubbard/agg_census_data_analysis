@@ -1,4 +1,5 @@
 geopandas
 xlrd
 openpyxl
-seaborn-0.11.2
+seaborn
+xlrd
